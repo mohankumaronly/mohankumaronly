@@ -1,4 +1,4 @@
-Hi there! 👋 I'm Ima Mohan
+Hi there! 👋 I'm Mohan
 
 Welcome to my GitHub! I'm an engineering student with a passion for web development, coding, and technology. I’m constantly learning and building projects that put my skills into practice.
 
