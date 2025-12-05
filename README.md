@@ -63,11 +63,29 @@ Tell me your project names and I’ll fill this section perfectly.
 
 ## 🌐 Connect with Me  
 <p align="center">
-  <a href="https://github.com/mohankumaronly" target="_blank">GitHub</a> •
-  <a href="https://linkedin.com/" target="_blank">LinkedIn</a> •
-  <a href="https://instagram.com/" target="_blank">Instagram</a> •
-  <a href="mailto:your-email@example.com">Email</a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/mohankumaronly" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="45" />
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://instagram.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" width="45" />
+  </a>
+
+  <!-- Email -->
+  <a href="mailto:your-email@example.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="45" />
+  </a>
+
 </p>
+
 
 <br/>
 
