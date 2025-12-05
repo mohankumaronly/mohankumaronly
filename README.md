@@ -1,11 +1,11 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Mohan%20Kumar%20(Ranger)&fontSize=40&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Mohan%20Kumar%20(Ranger)&fontSize=40&animation=fadeIn" alt="banner"/>
 </p>
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Developer;Full+Stack+Learner;Clean+Code+Enthusiast;Modern+Web+Builder;&center=true&size=22" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Developer;Full+Stack+Learner;Clean+Code+Enthusiast;Modern+Web+Builder;&center=true&size=22" alt="typing" />
 </p>
 
 <br/>
@@ -21,25 +21,23 @@
 
 ## 🛠 Tech Stack (Skills Card)
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind,git,github,postman,vscode,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind,git,github,postman,vscode,html,css,js" alt="skills" />
 </p>
 
 <br/>
 
 ## 🚀 Featured Projects  
-Tell me your project names and I’ll fill this section perfectly.
+<p align="center">
+  <a href="#featured-projects"><strong>Explore my projects ↓</strong></a>
+</p>
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| Project 1 | Short description | MERN |
-| Project 2 | Short description | React + API |
-| Project 3 | Short description | Node + Mongo |
+<p align="center"> <a href="#featured-projects"><strong>Explore my projects ↓</strong></a> </p> <table align="center" cellpadding="10"> <tr> <td valign="top" width="360"> <a href="VIDEO_URL_PROJECT_1" target="_blank"> <img src="THUMBNAIL_URL_PROJECT_1" alt="Project 1 Demo" width="100%" style="border-radius:12px;box-shadow:0 6px 18px rgba(0,0,0,0.12)" /> </a> <h3>🚧 Project Name 1</h3> <p style="color:#6b7280;font-size:14px;"> Short description for project 1. </p> <p> <img src="https://img.shields.io/badge/MERN-Stack-4CAF50?style=flat-square&logo=mongodb" height="18" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white" height="18" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" height="18" /> </p> <p> <a href="VIDEO_URL_PROJECT_1" target="_blank"> <img src="https://img.shields.io/badge/▶%20Watch%20Demo-YouTube-red?style=for-the-badge&logo=youtube" /> </a> <a href="REPO_URL_PROJECT_1" target="_blank"> <img src="https://img.shields.io/badge/View%20Code-GitHub-181717?style=for-the-badge&logo=github" /> </a> </p> </td> <td valign="top" width="360"> <a href="VIDEO_URL_PROJECT_2" target="_blank"> <img src="THUMBNAIL_URL_PROJECT_2" width="100%" style="border-radius:12px;box-shadow:0 6px 18px rgba(0,0,0,0.12)" /> </a> <h3>✨ Project Name 2</h3> <p style="color:#6b7280;font-size:14px;"> Short description for project 2. </p> <p> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react" height="18" /> <img src="https://img.shields.io/badge/API-Express-000000?style=flat-square&logo=express" height="18" /> <img src="https://img.shields.io/badge/MongoDB-Atlas-47A248?style=flat-square&logo=mongodb" height="18" /> </p> <p> <a href="VIDEO_URL_PROJECT_2" target="_blank"> <img src="https://img.shields.io/badge/▶%20Watch%20Demo-Video-blue?style=for-the-badge" /> </a> <a href="REPO_URL_PROJECT_2" target="_blank"> <img src="https://img.shields.io/badge/View%20Code-GitHub-181717?style=for-the-badge&logo=github" /> </a> </p> </td> <td valign="top" width="360"> <a href="VIDEO_URL_PROJECT_3" target="_blank"> <img src="THUMBNAIL_URL_PROJECT_3" width="100%" style="border-radius:12px;box-shadow:0 6px 18px rgba(0,0,0,0.12)" /> </a> <h3>⚡ Project Name 3</h3> <p style="color:#6b7280;font-size:14px;"> Short description for project 3. </p> <p> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js" height="18" /> <img src="https://img.shields.io/badge/MongoDB-4.4-47A248?style=flat-square&logo=mongodb" height="18" /> <img src="https://img.shields.io/badge/JWT-Security-3E3E3E?style=flat-square" height="18" /> </p> <p> <a href="VIDEO_URL_PROJECT_3" target="_blank"> <img src="https://img.shields.io/badge/▶%20Watch%20Demo-Demo-purple?style=for-the-badge" /> </a> <a href="REPO_URL_PROJECT_3" target="_blank"> <img src="https://img.shields.io/badge/View%20Code-GitHub-181717?style=for-the-badge&logo=github" /> </a> </p> </td> </tr> </table>
 
 <br/>
 
 ## 📊 Activity Graph  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohankumaronly&theme=minimal" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohankumaronly&theme=minimal" alt="activity graph" />
 </p>
 
 <br/>
@@ -47,40 +45,34 @@ Tell me your project names and I’ll fill this section perfectly.
 ## 🌐 Connect with Me  
 <p align="center">
 
-  <!-- GitHub -->
-  <a href="https://github.com/mohankumaronly" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="45" />
+  <a href="https://github.com/mohankumaronly" target="_blank" rel="noopener">
+    <img src="https://skillicons.dev/icons?i=github" width="45" alt="github" />
   </a>
 
-  <!-- LinkedIn -->
-  <a href="https://linkedin.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank" rel="noopener">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="linkedin" />
   </a>
 
-  <!-- Instagram -->
-  <a href="https://instagram.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" width="45" />
+  <a href="https://instagram.com/YOUR_INSTAGRAM" target="_blank" rel="noopener">
+    <img src="https://skillicons.dev/icons?i=instagram" width="45" alt="instagram" />
   </a>
 
-  <!-- Email -->
   <a href="mailto:your-email@example.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="45" />
+    <img src="https://skillicons.dev/icons?i=gmail" width="45" alt="email" />
   </a>
 
 </p>
-
 
 <br/>
 
 <!-- Visitor Count -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohankumaronly&label=Profile+Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=mohankumaronly&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 <br/>
 
 <!-- Footer Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" alt="footer" />
 </p>
-
