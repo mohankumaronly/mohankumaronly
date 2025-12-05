@@ -37,28 +37,6 @@ Tell me your project names and I’ll fill this section perfectly.
 
 <br/>
 
-## 📈 GitHub Stats (Auto Light/Dark Theme)
-<p align="center">
-
-  <!-- Main Stats -->
-  <picture>
-    <source srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mohankumaronly&show_icons=true&theme=github_dark" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mohankumaronly&show_icons=true&theme=default" media="(prefers-color-scheme: light)" />
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mohankumaronly&show_icons=true" height="150" />
-  </picture>
-
-  <!-- Top Languages -->
-  <picture>
-    <source srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mohankumaronly&layout=compact&theme=github_dark" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mohankumaronly&layout=compact&theme=default" media="(prefers-color-scheme: light)" />
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mohankumaronly&layout=compact" height="150" />
-  </picture>
-
-</p>
-
-
-<br/>
-
 ## 📊 Activity Graph  
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohankumaronly&theme=minimal" />
