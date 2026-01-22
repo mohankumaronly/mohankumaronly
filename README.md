@@ -26,13 +26,6 @@
 
 <br/>
 
-## 🚀 Featured Projects  
-<p align="center">
-  <a href="#featured-projects"><strong>Explore my current working projects ↓</strong></a>
-</p>
-
-<br/>
-
 ## 📊 Activity Graph  
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohankumaronly&theme=minimal" alt="activity graph" />
